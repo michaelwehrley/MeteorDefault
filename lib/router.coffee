@@ -1,10 +1,8 @@
 Router.configure
   layoutTemplate: "layout"
   loadingTemplate: "loading"
-
-Router.map ->
-  @route "home",
-    path: "/"
+  waitOn: ->
+    #
 
 requireLogin = ->
   unless Meteor.user()
@@ -13,7 +11,10 @@ requireLogin = ->
     else
       @render "accessDenied"
     @stop()
-  return
 
 # Router.before requireLogin,
 #   only: "home"
+
+Router.map ->
+  @route "home",
+    path: "/"
