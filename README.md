@@ -1,7 +1,9 @@
-A basic setup for meteor - from Discover Meteor
+Meteor Default
 
-Comes with a few packages such as bootstrap and the bootstrap log in, along with collection2 for database validations, ironrouter, moment.js, percolastestudio-migrations, spin, CoffeScript, and LoDash pre-installed.
+============
 
-Inaddition, I set up a /client, /server, /lib and /public folders.
+A basic setup for meteor - from Discover Meteor and it comes with a few packages such as bootstrap and the bootstrap log in, along with collection2 for database validations, ironrouter, moment.js, percolastestudio-migrations, spin, CoffeScript, and LoDash pre-installed.
+
+In addition, I set up /client, /server, /lib and /public folders.
 
 
