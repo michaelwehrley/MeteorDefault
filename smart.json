@@ -4,10 +4,10 @@
     "iron-router": {},
     "jquery-ui": {},
     "spin": {},
-    "accounts-ui-bootstrap-3": {},
-    "font-awesome": {},
     "collection2": {},
     "moment": {},
-    "percolatestudio-migrations": {}
+    "percolatestudio-migrations": {},
+    "accounts-ui-bootstrap-3-blaze": {},
+    "font-awesome": {}
   }
 }

@@ -4,15 +4,14 @@
 # but you can also edit it by hand.
 
 standard-app-packages
-preserve-inputs
 coffeescript
 bootstrap-3
 iron-router
 jquery-ui
 spin
-accounts-ui-bootstrap-3
 accounts-password
-font-awesome
 collection2
 moment
 percolatestudio-migrations
+accounts-ui-bootstrap-3-blaze
+font-awesome
