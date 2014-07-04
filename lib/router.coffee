@@ -4,13 +4,13 @@ Router.configure
   waitOn: ->
     #
 
-requireLogin = ->
+requireLogin = (pause) ->
   unless Meteor.user()
     if Meteor.loggingIn()
       @render @loadingTemplate
     else
       @render "accessDenied"
-    @stop()
+    pause()
 
 # Router.before requireLogin,
 #   only: "home"

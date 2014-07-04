@@ -8,6 +8,7 @@
     "moment": {},
     "percolatestudio-migrations": {},
     "accounts-ui-bootstrap-3-blaze": {},
-    "font-awesome": {}
+    "font-awesome": {},
+    "lodash": {}
   }
 }

@@ -10,7 +10,8 @@
       "moment": {},
       "percolatestudio-migrations": {},
       "accounts-ui-bootstrap-3-blaze": {},
-      "font-awesome": {}
+      "font-awesome": {},
+      "lodash": {}
     },
     "packages": {
       "bootstrap-3": {
@@ -57,6 +58,11 @@
         "git": "https://github.com/nate-strauser/meteor-font-awesome.git",
         "tag": "v4.1.0",
         "commit": "ce6b1e92715d1938babc5d69c655c17e387f5926"
+      },
+      "lodash": {
+        "git": "https://github.com/alethes/meteor-lodash.git",
+        "tag": "v0.7.1",
+        "commit": "57bbeb3e21c31b64641f9885bb2f390b84f8b925"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
