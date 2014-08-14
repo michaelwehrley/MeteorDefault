@@ -6,7 +6,6 @@
 standard-app-packages
 coffeescript
 bootstrap-3
-iron-router
 jquery-ui
 spin
 accounts-password
@@ -15,4 +14,5 @@ moment
 percolatestudio-migrations
 accounts-ui-bootstrap-3-blaze
 font-awesome
+iron-router
 lodash
